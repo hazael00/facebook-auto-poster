@@ -1,0 +1,15 @@
+C:\Users\Akgun\source\repos\post\post\bin\Debug\post.exe.config
+C:\Users\Akgun\source\repos\post\post\bin\Debug\post.exe
+C:\Users\Akgun\source\repos\post\post\bin\Debug\post.pdb
+C:\Users\Akgun\source\repos\post\post\bin\Debug\MaterialSkin.dll
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.Form1.resources
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.Properties.Resources.resources
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.csproj.GenerateResource.cache
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.csproj.CoreCompileInputs.cache
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.csproj.CopyComplete
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.exe
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.pdb
+C:\Users\Akgun\source\repos\post\post\bin\Debug\WebDriver.dll
+C:\Users\Akgun\source\repos\post\post\bin\Debug\WebDriver.xml
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.Form2.resources
+C:\Users\Akgun\source\repos\post\post\obj\Debug\post.csprojAssemblyReference.cache
